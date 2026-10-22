@@ -1,0 +1,8 @@
+build/
+obj_dir/
+slurm-*.out
+*.vcd
+*.fst
+core
+core.*
+.DS_Store
